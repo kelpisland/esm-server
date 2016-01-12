@@ -1,27 +1,19 @@
 # esm-server
-A Project of the Environmental Assessment Office
-
-This readme serves as an example readme for a government open source project. A brief description of your project would go here.
+A Project of the Environmental Assessment Office in cooperation with the OCIO DevOps Pathfinder. This repo is the XXXX in conjunction with 
 
 ## Features
-
-## Usage
-
-## Requirements
-
-## Installation
+Need a blurb about the server side and one for the esm-app too.
 
 ## Project Status
+The project is actively developing towards a first release target of January 18, 2016.
 
 ## Goals/Roadmap
+As part of the first release the esm-server will be containerized and run in the OCIO DevOps Docker server environment.
 
-## Getting Help or Reporting an Issue
+In February the OCIO DevOps pathfinder team will be migrating the containers to be managed through RedHat OpenShift.
 
-## How to Contribute
 
 ## License
-
-Here is the boiler-plate you should put into the comments header of every source code file as well as the bottom of your README.md:
 
     Copyright 2015 Province of British Columbia
 
